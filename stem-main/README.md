@@ -1,0 +1,3 @@
+# portfolio
+
+This semester, STEM class has been incredibly enlightening for me. Not only did I gain valuable insights from the various projects presented in class, but I also discovered the limitless possibilities of diverse exploration. I selected four weeks of content that I found personally intriguing and explored them in depth, expanding and enhancing my understanding as well as developing code. However, my thought process was quite divergent during the creation phase, leading me to make various progressive attempts in different directions. These efforts are all included to document my process in my weekly folders, with the final work for each week labeled as the “work.py” file. Additionally, I recorded videos and took screenshots to better showcase my outcome.

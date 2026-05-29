@@ -1,0 +1,6 @@
+torch
+torchaudio
+opencv-python
+numpy
+threading 
+pydub 
